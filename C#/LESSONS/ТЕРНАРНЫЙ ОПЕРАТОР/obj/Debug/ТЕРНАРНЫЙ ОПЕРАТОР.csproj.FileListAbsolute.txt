@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\bin\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.exe.config
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\bin\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\bin\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.pdb
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\obj\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\obj\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\obj\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\obj\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\obj\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.pdb

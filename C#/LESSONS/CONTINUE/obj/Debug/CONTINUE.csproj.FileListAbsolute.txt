@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\CONTINUE\bin\Debug\CONTINUE.exe.config
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\CONTINUE\bin\Debug\CONTINUE.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\CONTINUE\bin\Debug\CONTINUE.pdb
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\CONTINUE\obj\Debug\CONTINUE.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\CONTINUE\obj\Debug\CONTINUE.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\CONTINUE\obj\Debug\CONTINUE.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\CONTINUE\obj\Debug\CONTINUE.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\CONTINUE\obj\Debug\CONTINUE.pdb

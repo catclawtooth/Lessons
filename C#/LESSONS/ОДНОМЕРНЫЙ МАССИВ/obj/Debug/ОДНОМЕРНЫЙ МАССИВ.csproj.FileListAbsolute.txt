@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ОДНОМЕРНЫЙ МАССИВ\bin\Debug\ОДНОМЕРНЫЙ МАССИВ.exe.config
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ОДНОМЕРНЫЙ МАССИВ\bin\Debug\ОДНОМЕРНЫЙ МАССИВ.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ОДНОМЕРНЫЙ МАССИВ\bin\Debug\ОДНОМЕРНЫЙ МАССИВ.pdb
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ОДНОМЕРНЫЙ МАССИВ\obj\Debug\ОДНОМЕРНЫЙ МАССИВ.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ОДНОМЕРНЫЙ МАССИВ\obj\Debug\ОДНОМЕРНЫЙ МАССИВ.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ОДНОМЕРНЫЙ МАССИВ\obj\Debug\ОДНОМЕРНЫЙ МАССИВ.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ОДНОМЕРНЫЙ МАССИВ\obj\Debug\ОДНОМЕРНЫЙ МАССИВ.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ОДНОМЕРНЫЙ МАССИВ\obj\Debug\ОДНОМЕРНЫЙ МАССИВ.pdb

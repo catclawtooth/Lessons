@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\BREAK\bin\Debug\BREAK.exe.config
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\BREAK\bin\Debug\BREAK.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\BREAK\bin\Debug\BREAK.pdb
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\BREAK\obj\Debug\BREAK.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\BREAK\obj\Debug\BREAK.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\BREAK\obj\Debug\BREAK.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\BREAK\obj\Debug\BREAK.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\BREAK\obj\Debug\BREAK.pdb

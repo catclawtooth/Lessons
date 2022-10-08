@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\FOR\obj\Debug\FOR.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\FOR\obj\Debug\FOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\FOR\obj\Debug\FOR.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\FOR\bin\Debug\FOR.exe.config
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\FOR\bin\Debug\FOR.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\FOR\bin\Debug\FOR.pdb
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\FOR\obj\Debug\FOR.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\FOR\obj\Debug\FOR.pdb

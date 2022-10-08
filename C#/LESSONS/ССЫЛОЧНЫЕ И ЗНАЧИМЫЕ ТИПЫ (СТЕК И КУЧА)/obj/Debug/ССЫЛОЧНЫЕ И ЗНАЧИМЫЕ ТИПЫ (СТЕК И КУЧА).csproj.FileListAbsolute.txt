@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\bin\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).exe.config
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\bin\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\bin\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).pdb
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\obj\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\obj\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\obj\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\obj\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\obj\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).pdb

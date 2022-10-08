@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\bin\Debug\ТРЕХМЕРНЫЙ МАССИВ.exe.config
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\bin\Debug\ТРЕХМЕРНЫЙ МАССИВ.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\bin\Debug\ТРЕХМЕРНЫЙ МАССИВ.pdb
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\obj\Debug\ТРЕХМЕРНЫЙ МАССИВ.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\obj\Debug\ТРЕХМЕРНЫЙ МАССИВ.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\obj\Debug\ТРЕХМЕРНЫЙ МАССИВ.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\obj\Debug\ТРЕХМЕРНЫЙ МАССИВ.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\obj\Debug\ТРЕХМЕРНЫЙ МАССИВ.pdb

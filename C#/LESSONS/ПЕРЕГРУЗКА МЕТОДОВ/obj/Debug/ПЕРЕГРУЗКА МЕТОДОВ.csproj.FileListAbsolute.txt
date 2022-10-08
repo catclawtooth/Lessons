@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\bin\Debug\ПЕРЕГРУЗКА МЕТОДОВ.exe.config
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\bin\Debug\ПЕРЕГРУЗКА МЕТОДОВ.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\bin\Debug\ПЕРЕГРУЗКА МЕТОДОВ.pdb
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\obj\Debug\ПЕРЕГРУЗКА МЕТОДОВ.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\obj\Debug\ПЕРЕГРУЗКА МЕТОДОВ.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\obj\Debug\ПЕРЕГРУЗКА МЕТОДОВ.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\obj\Debug\ПЕРЕГРУЗКА МЕТОДОВ.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\obj\Debug\ПЕРЕГРУЗКА МЕТОДОВ.pdb

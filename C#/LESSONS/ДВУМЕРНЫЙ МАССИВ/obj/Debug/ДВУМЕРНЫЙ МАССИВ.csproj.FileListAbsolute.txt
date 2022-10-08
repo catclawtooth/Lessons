@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\bin\Debug\ДВУМЕРНЫЙ МАССИВ.exe.config
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\bin\Debug\ДВУМЕРНЫЙ МАССИВ.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\bin\Debug\ДВУМЕРНЫЙ МАССИВ.pdb
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\obj\Debug\ДВУМЕРНЫЙ МАССИВ.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\obj\Debug\ДВУМЕРНЫЙ МАССИВ.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\obj\Debug\ДВУМЕРНЫЙ МАССИВ.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\obj\Debug\ДВУМЕРНЫЙ МАССИВ.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\obj\Debug\ДВУМЕРНЫЙ МАССИВ.pdb

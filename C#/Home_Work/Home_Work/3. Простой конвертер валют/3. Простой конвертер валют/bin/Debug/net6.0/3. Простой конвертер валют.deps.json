@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "3. Простой конвертер валют/1.0.0": {
+        "runtime": {
+          "3. Простой конвертер валют.dll": {}
+        }
+      },
+      "5. Треугольники/1.0.0": {
+        "runtime": {
+          "TREUGOLNIKI.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3. Простой конвертер валют/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "5. Треугольники/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

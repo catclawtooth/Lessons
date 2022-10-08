@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ИНИЦИАЛИЗАЦИЯ МАССИВА (СПОСОБЫ)\obj\Debug\ИНИЦИАЛИЗАЦИЯ МАССИВА (СПОСОБЫ).csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ИНИЦИАЛИЗАЦИЯ МАССИВА (СПОСОБЫ)\obj\Debug\ИНИЦИАЛИЗАЦИЯ МАССИВА (СПОСОБЫ).csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ИНИЦИАЛИЗАЦИЯ МАССИВА (СПОСОБЫ)\obj\Debug\ИНИЦИАЛИЗАЦИЯ МАССИВА (СПОСОБЫ).csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ИНИЦИАЛИЗАЦИЯ МАССИВА (СПОСОБЫ)\bin\Debug\ИНИЦИАЛИЗАЦИЯ МАССИВА (СПОСОБЫ).exe.config
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ИНИЦИАЛИЗАЦИЯ МАССИВА (СПОСОБЫ)\bin\Debug\ИНИЦИАЛИЗАЦИЯ МАССИВА (СПОСОБЫ).exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ИНИЦИАЛИЗАЦИЯ МАССИВА (СПОСОБЫ)\bin\Debug\ИНИЦИАЛИЗАЦИЯ МАССИВА (СПОСОБЫ).pdb
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ИНИЦИАЛИЗАЦИЯ МАССИВА (СПОСОБЫ)\obj\Debug\ИНИЦИАЛИЗАЦИЯ МАССИВА (СПОСОБЫ).exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ИНИЦИАЛИЗАЦИЯ МАССИВА (СПОСОБЫ)\obj\Debug\ИНИЦИАЛИЗАЦИЯ МАССИВА (СПОСОБЫ).pdb

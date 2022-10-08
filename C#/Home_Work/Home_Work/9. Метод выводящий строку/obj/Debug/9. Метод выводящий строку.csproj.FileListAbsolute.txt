@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\9. Метод выводящий строку\bin\Debug\_9.Метод_выводящий_строку.exe.config
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\9. Метод выводящий строку\bin\Debug\_9.Метод_выводящий_строку.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\9. Метод выводящий строку\bin\Debug\_9.Метод_выводящий_строку.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\9. Метод выводящий строку\obj\Debug\9. Метод выводящий строку.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\9. Метод выводящий строку\obj\Debug\9. Метод выводящий строку.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\9. Метод выводящий строку\obj\Debug\9. Метод выводящий строку.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\9. Метод выводящий строку\obj\Debug\_9.Метод_выводящий_строку.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\9. Метод выводящий строку\obj\Debug\_9.Метод_выводящий_строку.pdb

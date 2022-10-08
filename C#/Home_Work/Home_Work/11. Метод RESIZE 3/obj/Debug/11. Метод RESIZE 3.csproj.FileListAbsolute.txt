@@ -1,0 +1,8 @@
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\Home_Work\Home_Work\11. Метод RESIZE 3\bin\Debug\_11.Метод_RESIZE_3.exe.config
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\Home_Work\Home_Work\11. Метод RESIZE 3\bin\Debug\_11.Метод_RESIZE_3.exe
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\Home_Work\Home_Work\11. Метод RESIZE 3\bin\Debug\_11.Метод_RESIZE_3.pdb
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\Home_Work\Home_Work\11. Метод RESIZE 3\obj\Debug\11. Метод RESIZE 3.csproj.AssemblyReference.cache
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\Home_Work\Home_Work\11. Метод RESIZE 3\obj\Debug\11. Метод RESIZE 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\Home_Work\Home_Work\11. Метод RESIZE 3\obj\Debug\11. Метод RESIZE 3.csproj.CoreCompileInputs.cache
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\Home_Work\Home_Work\11. Метод RESIZE 3\obj\Debug\_11.Метод_RESIZE_3.exe
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\Home_Work\Home_Work\11. Метод RESIZE 3\obj\Debug\_11.Метод_RESIZE_3.pdb

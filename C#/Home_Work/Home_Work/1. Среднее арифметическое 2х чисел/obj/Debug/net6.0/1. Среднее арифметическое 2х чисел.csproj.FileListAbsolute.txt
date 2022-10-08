@@ -1,0 +1,30 @@
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\1. Среднее арифметическое 2х чисел\1. Среднее арифметическое 2х чисел\bin\Debug\net6.0\1. Среднее арифметическое 2х чисел.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\1. Среднее арифметическое 2х чисел\1. Среднее арифметическое 2х чисел\bin\Debug\net6.0\1. Среднее арифметическое 2х чисел.deps.json
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\1. Среднее арифметическое 2х чисел\1. Среднее арифметическое 2х чисел\bin\Debug\net6.0\1. Среднее арифметическое 2х чисел.runtimeconfig.json
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\1. Среднее арифметическое 2х чисел\1. Среднее арифметическое 2х чисел\bin\Debug\net6.0\1. Среднее арифметическое 2х чисел.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\1. Среднее арифметическое 2х чисел\1. Среднее арифметическое 2х чисел\bin\Debug\net6.0\1. Среднее арифметическое 2х чисел.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\1. Среднее арифметическое 2х чисел\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\1. Среднее арифметическое 2х чисел.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\1. Среднее арифметическое 2х чисел\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\1. Среднее арифметическое 2х чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\1. Среднее арифметическое 2х чисел\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\1. Среднее арифметическое 2х чисел.AssemblyInfoInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\1. Среднее арифметическое 2х чисел\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\1. Среднее арифметическое 2х чисел.AssemblyInfo.cs
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\1. Среднее арифметическое 2х чисел\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\1. Среднее арифметическое 2х чисел.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\1. Среднее арифметическое 2х чисел\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\1. Среднее арифметическое 2х чисел.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\1. Среднее арифметическое 2х чисел\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\refint\1. Среднее арифметическое 2х чисел.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\1. Среднее арифметическое 2х чисел\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\1. Среднее арифметическое 2х чисел.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\1. Среднее арифметическое 2х чисел\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\1. Среднее арифметическое 2х чисел.genruntimeconfig.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\1. Среднее арифметическое 2х чисел\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\ref\1. Среднее арифметическое 2х чисел.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\1. Среднее арифметическое 2х чисел\bin\Debug\net6.0\1. Среднее арифметическое 2х чисел.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\1. Среднее арифметическое 2х чисел\bin\Debug\net6.0\1. Среднее арифметическое 2х чисел.deps.json
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\1. Среднее арифметическое 2х чисел\bin\Debug\net6.0\1. Среднее арифметическое 2х чисел.runtimeconfig.json
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\1. Среднее арифметическое 2х чисел\bin\Debug\net6.0\1. Среднее арифметическое 2х чисел.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\1. Среднее арифметическое 2х чисел\bin\Debug\net6.0\1. Среднее арифметическое 2х чисел.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\1. Среднее арифметическое 2х чисел.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\1. Среднее арифметическое 2х чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\1. Среднее арифметическое 2х чисел.AssemblyInfoInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\1. Среднее арифметическое 2х чисел.AssemblyInfo.cs
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\1. Среднее арифметическое 2х чисел.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\1. Среднее арифметическое 2х чисел.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\refint\1. Среднее арифметическое 2х чисел.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\1. Среднее арифметическое 2х чисел.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\1. Среднее арифметическое 2х чисел.genruntimeconfig.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\1. Среднее арифметическое 2х чисел\obj\Debug\net6.0\ref\1. Среднее арифметическое 2х чисел.dll

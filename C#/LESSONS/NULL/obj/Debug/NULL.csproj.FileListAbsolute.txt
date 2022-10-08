@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\NULL\bin\Debug\NULL.exe.config
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\NULL\bin\Debug\NULL.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\NULL\bin\Debug\NULL.pdb
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\NULL\obj\Debug\NULL.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\NULL\obj\Debug\NULL.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\NULL\obj\Debug\NULL.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\NULL\obj\Debug\NULL.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\NULL\obj\Debug\NULL.pdb

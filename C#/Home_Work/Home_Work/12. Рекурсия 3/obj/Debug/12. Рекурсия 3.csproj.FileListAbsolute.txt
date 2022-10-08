@@ -1,0 +1,8 @@
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\Home_Work\Home_Work\12. Рекурсия 3\obj\Debug\12. Рекурсия 3.csproj.AssemblyReference.cache
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\Home_Work\Home_Work\12. Рекурсия 3\obj\Debug\12. Рекурсия 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\Home_Work\Home_Work\12. Рекурсия 3\obj\Debug\12. Рекурсия 3.csproj.CoreCompileInputs.cache
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\Home_Work\Home_Work\12. Рекурсия 3\bin\Debug\_12.Рекурсия_3.exe.config
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\Home_Work\Home_Work\12. Рекурсия 3\bin\Debug\_12.Рекурсия_3.exe
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\Home_Work\Home_Work\12. Рекурсия 3\bin\Debug\_12.Рекурсия_3.pdb
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\Home_Work\Home_Work\12. Рекурсия 3\obj\Debug\_12.Рекурсия_3.exe
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\Home_Work\Home_Work\12. Рекурсия 3\obj\Debug\_12.Рекурсия_3.pdb

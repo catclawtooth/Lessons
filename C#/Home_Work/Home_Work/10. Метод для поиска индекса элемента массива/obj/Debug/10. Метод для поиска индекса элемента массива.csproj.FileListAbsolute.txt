@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\10. Метод для поиска индекса элемента массива\bin\Debug\_10.Метод_для_поиска_индекса_элемента_массива.exe.config
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\10. Метод для поиска индекса элемента массива\bin\Debug\_10.Метод_для_поиска_индекса_элемента_массива.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\10. Метод для поиска индекса элемента массива\bin\Debug\_10.Метод_для_поиска_индекса_элемента_массива.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\10. Метод для поиска индекса элемента массива\obj\Debug\10. Метод для поиска индекса элемента массива.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\10. Метод для поиска индекса элемента массива\obj\Debug\10. Метод для поиска индекса элемента массива.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\10. Метод для поиска индекса элемента массива\obj\Debug\10. Метод для поиска индекса элемента массива.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\10. Метод для поиска индекса элемента массива\obj\Debug\_10.Метод_для_поиска_индекса_элемента_массива.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\10. Метод для поиска индекса элемента массива\obj\Debug\_10.Метод_для_поиска_индекса_элемента_массива.pdb

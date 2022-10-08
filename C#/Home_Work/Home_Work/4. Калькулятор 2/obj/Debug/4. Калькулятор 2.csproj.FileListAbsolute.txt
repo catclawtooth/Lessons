@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\4. Калькулятор 2\obj\Debug\4. Калькулятор 2.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\4. Калькулятор 2\obj\Debug\4. Калькулятор 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\4. Калькулятор 2\obj\Debug\4. Калькулятор 2.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\4. Калькулятор 2\bin\Debug\_4.Калькулятор_2.exe.config
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\4. Калькулятор 2\bin\Debug\_4.Калькулятор_2.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\4. Калькулятор 2\bin\Debug\_4.Калькулятор_2.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\4. Калькулятор 2\obj\Debug\_4.Калькулятор_2.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\4. Калькулятор 2\obj\Debug\_4.Калькулятор_2.pdb

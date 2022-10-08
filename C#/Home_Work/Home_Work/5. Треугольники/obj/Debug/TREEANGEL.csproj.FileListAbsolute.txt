@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\CSHARP\TREUGOLNIKI\obj\Debug\TREEANGEL.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\CSHARP\TREUGOLNIKI\obj\Debug\TREEANGEL.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\CSHARP\TREUGOLNIKI\obj\Debug\TREEANGEL.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\CSHARP\TREUGOLNIKI\obj\Debug\TREUGOLNIKI.exe
+C:\Users\developer\Desktop\Lessons\C#\CSHARP\TREUGOLNIKI\obj\Debug\TREUGOLNIKI.pdb
+C:\Users\developer\Desktop\Lessons\C#\CSHARP\TREUGOLNIKI\bin\Debug\TREUGOLNIKI.exe.config
+C:\Users\developer\Desktop\Lessons\C#\CSHARP\TREUGOLNIKI\bin\Debug\TREUGOLNIKI.exe
+C:\Users\developer\Desktop\Lessons\C#\CSHARP\TREUGOLNIKI\bin\Debug\TREUGOLNIKI.pdb

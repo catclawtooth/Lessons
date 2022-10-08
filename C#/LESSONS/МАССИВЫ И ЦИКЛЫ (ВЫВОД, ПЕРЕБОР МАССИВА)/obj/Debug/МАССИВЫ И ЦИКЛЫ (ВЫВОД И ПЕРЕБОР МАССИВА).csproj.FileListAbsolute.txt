@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\МАССИВЫ И ЦИКЛЫ (ВЫВОД, ПЕРЕБОР МАССИВА)\bin\Debug\МАССИВЫ И ЦИКЛЫ (ВЫВОД, ПЕРЕБОР МАССИВА).exe.config
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\МАССИВЫ И ЦИКЛЫ (ВЫВОД, ПЕРЕБОР МАССИВА)\bin\Debug\МАССИВЫ И ЦИКЛЫ (ВЫВОД, ПЕРЕБОР МАССИВА).exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\МАССИВЫ И ЦИКЛЫ (ВЫВОД, ПЕРЕБОР МАССИВА)\bin\Debug\МАССИВЫ И ЦИКЛЫ (ВЫВОД, ПЕРЕБОР МАССИВА).pdb
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\МАССИВЫ И ЦИКЛЫ (ВЫВОД, ПЕРЕБОР МАССИВА)\obj\Debug\МАССИВЫ И ЦИКЛЫ (ВЫВОД И ПЕРЕБОР МАССИВА).csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\МАССИВЫ И ЦИКЛЫ (ВЫВОД, ПЕРЕБОР МАССИВА)\obj\Debug\МАССИВЫ И ЦИКЛЫ (ВЫВОД И ПЕРЕБОР МАССИВА).csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\МАССИВЫ И ЦИКЛЫ (ВЫВОД, ПЕРЕБОР МАССИВА)\obj\Debug\МАССИВЫ И ЦИКЛЫ (ВЫВОД И ПЕРЕБОР МАССИВА).csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\МАССИВЫ И ЦИКЛЫ (ВЫВОД, ПЕРЕБОР МАССИВА)\obj\Debug\МАССИВЫ И ЦИКЛЫ (ВЫВОД, ПЕРЕБОР МАССИВА).exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\МАССИВЫ И ЦИКЛЫ (ВЫВОД, ПЕРЕБОР МАССИВА)\obj\Debug\МАССИВЫ И ЦИКЛЫ (ВЫВОД, ПЕРЕБОР МАССИВА).pdb

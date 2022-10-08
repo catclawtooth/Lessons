@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\11. Метод RESIZE\bin\Debug\_11.Метод_RESIZE.exe.config
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\11. Метод RESIZE\bin\Debug\_11.Метод_RESIZE.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\11. Метод RESIZE\bin\Debug\_11.Метод_RESIZE.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\11. Метод RESIZE\obj\Debug\11. Метод RESIZE.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\11. Метод RESIZE\obj\Debug\11. Метод RESIZE.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\11. Метод RESIZE\obj\Debug\11. Метод RESIZE.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\11. Метод RESIZE\obj\Debug\_11.Метод_RESIZE.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\11. Метод RESIZE\obj\Debug\_11.Метод_RESIZE.pdb

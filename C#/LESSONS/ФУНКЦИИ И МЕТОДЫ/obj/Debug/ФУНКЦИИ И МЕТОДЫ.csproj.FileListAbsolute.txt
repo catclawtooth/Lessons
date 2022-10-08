@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\bin\Debug\ФУНКЦИИ И МЕТОДЫ.exe.config
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\bin\Debug\ФУНКЦИИ И МЕТОДЫ.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\bin\Debug\ФУНКЦИИ И МЕТОДЫ.pdb
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\obj\Debug\ФУНКЦИИ И МЕТОДЫ.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\obj\Debug\ФУНКЦИИ И МЕТОДЫ.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\obj\Debug\ФУНКЦИИ И МЕТОДЫ.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\obj\Debug\ФУНКЦИИ И МЕТОДЫ.exe
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\obj\Debug\ФУНКЦИИ И МЕТОДЫ.pdb

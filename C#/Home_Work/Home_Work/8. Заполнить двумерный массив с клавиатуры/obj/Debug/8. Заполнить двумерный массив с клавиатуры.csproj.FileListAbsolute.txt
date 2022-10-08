@@ -1,0 +1,8 @@
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\8. Заполнить двумерный массив с клавиатуры\obj\Debug\8. Заполнить двумерный массив с клавиатуры.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\8. Заполнить двумерный массив с клавиатуры\obj\Debug\8. Заполнить двумерный массив с клавиатуры.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\8. Заполнить двумерный массив с клавиатуры\obj\Debug\8. Заполнить двумерный массив с клавиатуры.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\8. Заполнить двумерный массив с клавиатуры\bin\Debug\_8.Заполнить_двумерный_массив_с_клавиатуры.exe.config
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\8. Заполнить двумерный массив с клавиатуры\bin\Debug\_8.Заполнить_двумерный_массив_с_клавиатуры.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\8. Заполнить двумерный массив с клавиатуры\bin\Debug\_8.Заполнить_двумерный_массив_с_клавиатуры.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\8. Заполнить двумерный массив с клавиатуры\obj\Debug\_8.Заполнить_двумерный_массив_с_клавиатуры.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\8. Заполнить двумерный массив с клавиатуры\obj\Debug\_8.Заполнить_двумерный_массив_с_клавиатуры.pdb

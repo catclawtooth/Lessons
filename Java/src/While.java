@@ -1,8 +1,8 @@
 public class While {
     public static void main(String[] args) {
         /*int a = 4;
-        boolean bol = a>5;            // <false>
-        System.out.println(bol);      // Выводим в консоль <false>*/
+        boolean bool = a>5;            // <false>
+        System.out.println(bool);      // Выводим в консоль <false>*/
 
         /*int a = 6;
         while (a>5) {                            //<true>

@@ -1,0 +1,5 @@
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net5.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net5.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net5.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.AssemblyInfoInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net5.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.AssemblyInfo.cs
+C:\Users\developer\Desktop\Lessons\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net5.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.csproj.CoreCompileInputs.cache

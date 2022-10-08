@@ -1,0 +1,8 @@
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\РЕКУРСИЯ\bin\Debug\РЕКУРСИЯ.exe.config
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\РЕКУРСИЯ\bin\Debug\РЕКУРСИЯ.exe
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\РЕКУРСИЯ\bin\Debug\РЕКУРСИЯ.pdb
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\РЕКУРСИЯ\obj\Debug\РЕКУРСИЯ.csproj.AssemblyReference.cache
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\РЕКУРСИЯ\obj\Debug\РЕКУРСИЯ.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\РЕКУРСИЯ\obj\Debug\РЕКУРСИЯ.csproj.CoreCompileInputs.cache
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\РЕКУРСИЯ\obj\Debug\РЕКУРСИЯ.exe
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\РЕКУРСИЯ\obj\Debug\РЕКУРСИЯ.pdb

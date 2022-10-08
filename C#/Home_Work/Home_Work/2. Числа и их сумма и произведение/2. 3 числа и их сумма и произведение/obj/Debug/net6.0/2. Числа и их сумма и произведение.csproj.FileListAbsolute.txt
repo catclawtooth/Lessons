@@ -1,0 +1,15 @@
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\2. Числа и их сумма и произведение\2. 3 числа и их сумма и произведение\bin\Debug\net6.0\2. Числа и их сумма и произведение.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\2. Числа и их сумма и произведение\2. 3 числа и их сумма и произведение\bin\Debug\net6.0\2. Числа и их сумма и произведение.deps.json
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\2. Числа и их сумма и произведение\2. 3 числа и их сумма и произведение\bin\Debug\net6.0\2. Числа и их сумма и произведение.runtimeconfig.json
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\2. Числа и их сумма и произведение\2. 3 числа и их сумма и произведение\bin\Debug\net6.0\2. Числа и их сумма и произведение.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\2. Числа и их сумма и произведение\2. 3 числа и их сумма и произведение\bin\Debug\net6.0\2. Числа и их сумма и произведение.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\2. Числа и их сумма и произведение\2. 3 числа и их сумма и произведение\obj\Debug\net6.0\2. Числа и их сумма и произведение.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\2. Числа и их сумма и произведение\2. 3 числа и их сумма и произведение\obj\Debug\net6.0\2. Числа и их сумма и произведение.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\2. Числа и их сумма и произведение\2. 3 числа и их сумма и произведение\obj\Debug\net6.0\2. Числа и их сумма и произведение.AssemblyInfoInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\2. Числа и их сумма и произведение\2. 3 числа и их сумма и произведение\obj\Debug\net6.0\2. Числа и их сумма и произведение.AssemblyInfo.cs
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\2. Числа и их сумма и произведение\2. 3 числа и их сумма и произведение\obj\Debug\net6.0\2. Числа и их сумма и произведение.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\2. Числа и их сумма и произведение\2. 3 числа и их сумма и произведение\obj\Debug\net6.0\2. Числа и их сумма и произведение.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\2. Числа и их сумма и произведение\2. 3 числа и их сумма и произведение\obj\Debug\net6.0\refint\2. Числа и их сумма и произведение.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\2. Числа и их сумма и произведение\2. 3 числа и их сумма и произведение\obj\Debug\net6.0\2. Числа и их сумма и произведение.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\2. Числа и их сумма и произведение\2. 3 числа и их сумма и произведение\obj\Debug\net6.0\2. Числа и их сумма и произведение.genruntimeconfig.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\2. Числа и их сумма и произведение\2. 3 числа и их сумма и произведение\obj\Debug\net6.0\ref\2. Числа и их сумма и произведение.dll

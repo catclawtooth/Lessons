@@ -1,0 +1,8 @@
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\OUT\obj\Debug\OUT.csproj.AssemblyReference.cache
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\OUT\obj\Debug\OUT.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\OUT\obj\Debug\OUT.csproj.CoreCompileInputs.cache
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\OUT\bin\Debug\OUT.exe.config
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\OUT\bin\Debug\OUT.exe
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\OUT\bin\Debug\OUT.pdb
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\OUT\obj\Debug\OUT.exe
+C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\OUT\obj\Debug\OUT.pdb

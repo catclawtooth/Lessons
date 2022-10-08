@@ -1,0 +1,49 @@
+C:\Users\Ultra\Desktop\C# Программы\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.csproj.AssemblyReference.cache
+C:\Users\Ultra\Desktop\C# Программы\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ultra\Desktop\C# Программы\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.AssemblyInfoInputs.cache
+C:\Users\Ultra\Desktop\C# Программы\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.AssemblyInfo.cs
+C:\Users\Ultra\Desktop\C# Программы\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.csproj.CoreCompileInputs.cache
+C:\Users\Ultra\Desktop\C# Программы\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\3. Простой конвертер валют.exe
+C:\Users\Ultra\Desktop\C# Программы\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\3. Простой конвертер валют.deps.json
+C:\Users\Ultra\Desktop\C# Программы\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\3. Простой конвертер валют.runtimeconfig.json
+C:\Users\Ultra\Desktop\C# Программы\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\3. Простой конвертер валют.dll
+C:\Users\Ultra\Desktop\C# Программы\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\3. Простой конвертер валют.pdb
+C:\Users\Ultra\Desktop\C# Программы\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.dll
+C:\Users\Ultra\Desktop\C# Программы\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\refint\3. Простой конвертер валют.dll
+C:\Users\Ultra\Desktop\C# Программы\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.pdb
+C:\Users\Ultra\Desktop\C# Программы\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.genruntimeconfig.cache
+C:\Users\Ultra\Desktop\C# Программы\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\ref\3. Простой конвертер валют.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\3. Простой конвертер валют.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\3. Простой конвертер валют.deps.json
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\3. Простой конвертер валют.runtimeconfig.json
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\3. Простой конвертер валют.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\3. Простой конвертер валют.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.AssemblyInfoInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.AssemblyInfo.cs
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\refint\3. Простой конвертер валют.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.genruntimeconfig.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\ref\3. Простой конвертер валют.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\3. Простой конвертер валют.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\3. Простой конвертер валют.deps.json
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\3. Простой конвертер валют.runtimeconfig.json
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\3. Простой конвертер валют.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\3. Простой конвертер валют.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\TREUGOLNIKI.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\TREUGOLNIKI.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\bin\Debug\net6.0\TREUGOLNIKI.exe.config
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.AssemblyInfoInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.AssemblyInfo.cs
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.csproj.CopyComplete
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\refint\3. Простой конвертер валют.dll
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\3. Простой конвертер валют.genruntimeconfig.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\3. Простой конвертер валют\3. Простой конвертер валют\obj\Debug\net6.0\ref\3. Простой конвертер валют.dll

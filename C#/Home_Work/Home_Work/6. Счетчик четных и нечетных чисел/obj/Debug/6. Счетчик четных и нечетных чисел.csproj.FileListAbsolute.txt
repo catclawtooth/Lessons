@@ -1,0 +1,16 @@
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\Счетчик четных и нечетных чисел\bin\Debug\Счетчик четных и нечетных чисел.exe.config
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\Счетчик четных и нечетных чисел\bin\Debug\Счетчик четных и нечетных чисел.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\Счетчик четных и нечетных чисел\bin\Debug\Счетчик четных и нечетных чисел.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\Счетчик четных и нечетных чисел\obj\Debug\6. Счетчик четных и нечетных чисел.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\Счетчик четных и нечетных чисел\obj\Debug\6. Счетчик четных и нечетных чисел.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\Счетчик четных и нечетных чисел\obj\Debug\6. Счетчик четных и нечетных чисел.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\Счетчик четных и нечетных чисел\obj\Debug\Счетчик четных и нечетных чисел.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\Счетчик четных и нечетных чисел\obj\Debug\Счетчик четных и нечетных чисел.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\6. Счетчик четных и нечетных чисел\bin\Debug\Счетчик четных и нечетных чисел.exe.config
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\6. Счетчик четных и нечетных чисел\bin\Debug\Счетчик четных и нечетных чисел.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\6. Счетчик четных и нечетных чисел\bin\Debug\Счетчик четных и нечетных чисел.pdb
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\6. Счетчик четных и нечетных чисел\obj\Debug\6. Счетчик четных и нечетных чисел.csproj.AssemblyReference.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\6. Счетчик четных и нечетных чисел\obj\Debug\6. Счетчик четных и нечетных чисел.csproj.SuggestedBindingRedirects.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\6. Счетчик четных и нечетных чисел\obj\Debug\6. Счетчик четных и нечетных чисел.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\6. Счетчик четных и нечетных чисел\obj\Debug\Счетчик четных и нечетных чисел.exe
+C:\Users\developer\Desktop\Lessons\C#\Home_Work\Home_Work\6. Счетчик четных и нечетных чисел\obj\Debug\Счетчик четных и нечетных чисел.pdb
