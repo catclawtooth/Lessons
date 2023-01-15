@@ -1,3 +1,6 @@
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ОБЛАСТИ ВИДИМОСТИ (КОНТЕКСТ, КОНФЛИКТЫ)\obj\Debug\ОБЛАСТИ ВИДИМОСТИ (КОНТЕКСТ, КОНФЛИКТЫ).csproj.AssemblyReference.cache
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ОБЛАСТИ ВИДИМОСТИ (КОНТЕКСТ, КОНФЛИКТЫ)\obj\Debug\ОБЛАСТИ ВИДИМОСТИ (КОНТЕКСТ, КОНФЛИКТЫ).csproj.SuggestedBindingRedirects.cache
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ОБЛАСТИ ВИДИМОСТИ (КОНТЕКСТ, КОНФЛИКТЫ)\obj\Debug\ОБЛАСТИ ВИДИМОСТИ (КОНТЕКСТ, КОНФЛИКТЫ).csproj.CoreCompileInputs.cache
+C:\C# 2022\C#\LESSONS\ОБЛАСТИ ВИДИМОСТИ (КОНТЕКСТ, КОНФЛИКТЫ)\obj\Debug\ОБЛАСТИ ВИДИМОСТИ (КОНТЕКСТ, КОНФЛИКТЫ).csproj.AssemblyReference.cache
+C:\C# 2022\C#\LESSONS\ОБЛАСТИ ВИДИМОСТИ (КОНТЕКСТ, КОНФЛИКТЫ)\obj\Debug\ОБЛАСТИ ВИДИМОСТИ (КОНТЕКСТ, КОНФЛИКТЫ).csproj.SuggestedBindingRedirects.cache
+C:\C# 2022\C#\LESSONS\ОБЛАСТИ ВИДИМОСТИ (КОНТЕКСТ, КОНФЛИКТЫ)\obj\Debug\ОБЛАСТИ ВИДИМОСТИ (КОНТЕКСТ, КОНФЛИКТЫ).csproj.CoreCompileInputs.cache

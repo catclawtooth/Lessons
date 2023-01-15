@@ -1,0 +1,8 @@
+C:\C# 2022\C#\LESSONS\ENUM(перечисления)\bin\Debug\ENUM(перечисления).exe.config
+C:\C# 2022\C#\LESSONS\ENUM(перечисления)\bin\Debug\ENUM(перечисления).exe
+C:\C# 2022\C#\LESSONS\ENUM(перечисления)\bin\Debug\ENUM(перечисления).pdb
+C:\C# 2022\C#\LESSONS\ENUM(перечисления)\obj\Debug\ENUM(перечисления).csproj.AssemblyReference.cache
+C:\C# 2022\C#\LESSONS\ENUM(перечисления)\obj\Debug\ENUM(перечисления).csproj.SuggestedBindingRedirects.cache
+C:\C# 2022\C#\LESSONS\ENUM(перечисления)\obj\Debug\ENUM(перечисления).csproj.CoreCompileInputs.cache
+C:\C# 2022\C#\LESSONS\ENUM(перечисления)\obj\Debug\ENUM(перечисления).exe
+C:\C# 2022\C#\LESSONS\ENUM(перечисления)\obj\Debug\ENUM(перечисления).pdb

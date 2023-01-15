@@ -6,3 +6,11 @@ C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\obj\Debug\ТРЕХМЕРНЫЙ МАССИВ.csproj.CoreCompileInputs.cache
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\obj\Debug\ТРЕХМЕРНЫЙ МАССИВ.exe
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\obj\Debug\ТРЕХМЕРНЫЙ МАССИВ.pdb
+C:\C# 2022\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\bin\Debug\ТРЕХМЕРНЫЙ МАССИВ.exe.config
+C:\C# 2022\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\bin\Debug\ТРЕХМЕРНЫЙ МАССИВ.exe
+C:\C# 2022\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\bin\Debug\ТРЕХМЕРНЫЙ МАССИВ.pdb
+C:\C# 2022\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\obj\Debug\ТРЕХМЕРНЫЙ МАССИВ.csproj.AssemblyReference.cache
+C:\C# 2022\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\obj\Debug\ТРЕХМЕРНЫЙ МАССИВ.csproj.SuggestedBindingRedirects.cache
+C:\C# 2022\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\obj\Debug\ТРЕХМЕРНЫЙ МАССИВ.csproj.CoreCompileInputs.cache
+C:\C# 2022\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\obj\Debug\ТРЕХМЕРНЫЙ МАССИВ.exe
+C:\C# 2022\C#\LESSONS\ТРЕХМЕРНЫЙ МАССИВ\obj\Debug\ТРЕХМЕРНЫЙ МАССИВ.pdb

@@ -13,3 +13,18 @@ C:\Users\developer\Desktop\Lessons\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОН
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net6.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.pdb
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net6.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.genruntimeconfig.cache
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net6.0\ref\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.dll
+C:\C# 2022\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\bin\Debug\net6.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.exe
+C:\C# 2022\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\bin\Debug\net6.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.deps.json
+C:\C# 2022\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\bin\Debug\net6.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.runtimeconfig.json
+C:\C# 2022\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\bin\Debug\net6.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.dll
+C:\C# 2022\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\bin\Debug\net6.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.pdb
+C:\C# 2022\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net6.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.csproj.AssemblyReference.cache
+C:\C# 2022\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net6.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# 2022\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net6.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.AssemblyInfoInputs.cache
+C:\C# 2022\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net6.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.AssemblyInfo.cs
+C:\C# 2022\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net6.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.csproj.CoreCompileInputs.cache
+C:\C# 2022\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net6.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.dll
+C:\C# 2022\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net6.0\refint\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.dll
+C:\C# 2022\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net6.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.pdb
+C:\C# 2022\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net6.0\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.genruntimeconfig.cache
+C:\C# 2022\C#\LESSONS\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\obj\Debug\net6.0\ref\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.dll

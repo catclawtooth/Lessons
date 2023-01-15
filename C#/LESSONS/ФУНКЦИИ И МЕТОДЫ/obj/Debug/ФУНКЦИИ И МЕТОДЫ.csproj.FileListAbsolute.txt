@@ -6,3 +6,11 @@ C:\Users\developer\Desktop\Lessons\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\obj
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\obj\Debug\ФУНКЦИИ И МЕТОДЫ.csproj.CoreCompileInputs.cache
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\obj\Debug\ФУНКЦИИ И МЕТОДЫ.exe
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\obj\Debug\ФУНКЦИИ И МЕТОДЫ.pdb
+C:\C# 2022\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\bin\Debug\ФУНКЦИИ И МЕТОДЫ.exe.config
+C:\C# 2022\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\bin\Debug\ФУНКЦИИ И МЕТОДЫ.exe
+C:\C# 2022\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\bin\Debug\ФУНКЦИИ И МЕТОДЫ.pdb
+C:\C# 2022\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\obj\Debug\ФУНКЦИИ И МЕТОДЫ.csproj.AssemblyReference.cache
+C:\C# 2022\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\obj\Debug\ФУНКЦИИ И МЕТОДЫ.csproj.SuggestedBindingRedirects.cache
+C:\C# 2022\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\obj\Debug\ФУНКЦИИ И МЕТОДЫ.csproj.CoreCompileInputs.cache
+C:\C# 2022\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\obj\Debug\ФУНКЦИИ И МЕТОДЫ.exe
+C:\C# 2022\C#\LESSONS\ФУНКЦИИ И МЕТОДЫ\obj\Debug\ФУНКЦИИ И МЕТОДЫ.pdb

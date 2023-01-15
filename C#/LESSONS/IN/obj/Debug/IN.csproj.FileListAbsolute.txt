@@ -1,0 +1,8 @@
+C:\C# 2022\C#\LESSONS\IN\bin\Debug\IN.exe.config
+C:\C# 2022\C#\LESSONS\IN\bin\Debug\IN.exe
+C:\C# 2022\C#\LESSONS\IN\bin\Debug\IN.pdb
+C:\C# 2022\C#\LESSONS\IN\obj\Debug\IN.csproj.AssemblyReference.cache
+C:\C# 2022\C#\LESSONS\IN\obj\Debug\IN.csproj.SuggestedBindingRedirects.cache
+C:\C# 2022\C#\LESSONS\IN\obj\Debug\IN.csproj.CoreCompileInputs.cache
+C:\C# 2022\C#\LESSONS\IN\obj\Debug\IN.exe
+C:\C# 2022\C#\LESSONS\IN\obj\Debug\IN.pdb

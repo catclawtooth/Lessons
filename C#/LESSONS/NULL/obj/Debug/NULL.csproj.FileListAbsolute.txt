@@ -6,3 +6,11 @@ C:\Users\developer\Desktop\Lessons\C#\LESSONS\NULL\obj\Debug\NULL.csproj.Suggest
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\NULL\obj\Debug\NULL.csproj.CoreCompileInputs.cache
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\NULL\obj\Debug\NULL.exe
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\NULL\obj\Debug\NULL.pdb
+C:\C# 2022\C#\LESSONS\NULL\bin\Debug\NULL.exe.config
+C:\C# 2022\C#\LESSONS\NULL\bin\Debug\NULL.exe
+C:\C# 2022\C#\LESSONS\NULL\bin\Debug\NULL.pdb
+C:\C# 2022\C#\LESSONS\NULL\obj\Debug\NULL.csproj.AssemblyReference.cache
+C:\C# 2022\C#\LESSONS\NULL\obj\Debug\NULL.csproj.SuggestedBindingRedirects.cache
+C:\C# 2022\C#\LESSONS\NULL\obj\Debug\NULL.csproj.CoreCompileInputs.cache
+C:\C# 2022\C#\LESSONS\NULL\obj\Debug\NULL.exe
+C:\C# 2022\C#\LESSONS\NULL\obj\Debug\NULL.pdb

@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПАРАМЕТРЫ (НЕО�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "РЕКУРСИЯ", "РЕКУРСИЯ\РЕКУРСИЯ.csproj", "{421FC4BF-F89C-4735-AFF9-A0373D10E9A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENUM(перечисления)", "ENUM(перечисления)\ENUM(перечисления).csproj", "{288FEC32-2C26-49C6-857D-E203B94A3A4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{421FC4BF-F89C-4735-AFF9-A0373D10E9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{421FC4BF-F89C-4735-AFF9-A0373D10E9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{421FC4BF-F89C-4735-AFF9-A0373D10E9A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{288FEC32-2C26-49C6-857D-E203B94A3A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288FEC32-2C26-49C6-857D-E203B94A3A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288FEC32-2C26-49C6-857D-E203B94A3A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288FEC32-2C26-49C6-857D-E203B94A3A4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

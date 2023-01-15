@@ -6,3 +6,11 @@ C:\Users\developer\Desktop\Lessons\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\ob
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\obj\Debug\ДВУМЕРНЫЙ МАССИВ.csproj.CoreCompileInputs.cache
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\obj\Debug\ДВУМЕРНЫЙ МАССИВ.exe
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\obj\Debug\ДВУМЕРНЫЙ МАССИВ.pdb
+C:\C# 2022\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\bin\Debug\ДВУМЕРНЫЙ МАССИВ.exe.config
+C:\C# 2022\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\bin\Debug\ДВУМЕРНЫЙ МАССИВ.exe
+C:\C# 2022\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\bin\Debug\ДВУМЕРНЫЙ МАССИВ.pdb
+C:\C# 2022\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\obj\Debug\ДВУМЕРНЫЙ МАССИВ.csproj.AssemblyReference.cache
+C:\C# 2022\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\obj\Debug\ДВУМЕРНЫЙ МАССИВ.csproj.SuggestedBindingRedirects.cache
+C:\C# 2022\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\obj\Debug\ДВУМЕРНЫЙ МАССИВ.csproj.CoreCompileInputs.cache
+C:\C# 2022\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\obj\Debug\ДВУМЕРНЫЙ МАССИВ.exe
+C:\C# 2022\C#\LESSONS\ДВУМЕРНЫЙ МАССИВ\obj\Debug\ДВУМЕРНЫЙ МАССИВ.pdb

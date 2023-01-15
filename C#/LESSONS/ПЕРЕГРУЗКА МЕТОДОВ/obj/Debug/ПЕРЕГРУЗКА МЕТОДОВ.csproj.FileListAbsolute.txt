@@ -6,3 +6,11 @@ C:\Users\developer\Desktop\Lessons\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДО�
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\obj\Debug\ПЕРЕГРУЗКА МЕТОДОВ.csproj.CoreCompileInputs.cache
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\obj\Debug\ПЕРЕГРУЗКА МЕТОДОВ.exe
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\obj\Debug\ПЕРЕГРУЗКА МЕТОДОВ.pdb
+C:\C# 2022\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\bin\Debug\ПЕРЕГРУЗКА МЕТОДОВ.exe.config
+C:\C# 2022\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\bin\Debug\ПЕРЕГРУЗКА МЕТОДОВ.exe
+C:\C# 2022\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\bin\Debug\ПЕРЕГРУЗКА МЕТОДОВ.pdb
+C:\C# 2022\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\obj\Debug\ПЕРЕГРУЗКА МЕТОДОВ.csproj.AssemblyReference.cache
+C:\C# 2022\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\obj\Debug\ПЕРЕГРУЗКА МЕТОДОВ.csproj.SuggestedBindingRedirects.cache
+C:\C# 2022\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\obj\Debug\ПЕРЕГРУЗКА МЕТОДОВ.csproj.CoreCompileInputs.cache
+C:\C# 2022\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\obj\Debug\ПЕРЕГРУЗКА МЕТОДОВ.exe
+C:\C# 2022\C#\LESSONS\ПЕРЕГРУЗКА МЕТОДОВ\obj\Debug\ПЕРЕГРУЗКА МЕТОДОВ.pdb

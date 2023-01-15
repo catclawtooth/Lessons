@@ -6,3 +6,11 @@ C:\Users\developer\Desktop\Lessons\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМ
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\obj\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).csproj.CoreCompileInputs.cache
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\obj\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).exe
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\obj\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).pdb
+C:\C# 2022\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\bin\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).exe.config
+C:\C# 2022\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\bin\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).exe
+C:\C# 2022\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\bin\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).pdb
+C:\C# 2022\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\obj\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).csproj.AssemblyReference.cache
+C:\C# 2022\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\obj\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).csproj.SuggestedBindingRedirects.cache
+C:\C# 2022\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\obj\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).csproj.CoreCompileInputs.cache
+C:\C# 2022\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\obj\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).exe
+C:\C# 2022\C#\LESSONS\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА)\obj\Debug\ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ (СТЕК И КУЧА).pdb

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\developer\\OneDrive\\Рабочий стол\\Lessons\\C#\\LESSONS\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.csproj": {}
+    "C:\\C# 2022\\C#\\LESSONS\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\developer\\OneDrive\\Рабочий стол\\Lessons\\C#\\LESSONS\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.csproj": {
+    "C:\\C# 2022\\C#\\LESSONS\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\developer\\OneDrive\\Рабочий стол\\Lessons\\C#\\LESSONS\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.csproj",
+        "projectUniqueName": "C:\\C# 2022\\C#\\LESSONS\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.csproj",
         "projectName": "ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE",
-        "projectPath": "C:\\Users\\developer\\OneDrive\\Рабочий стол\\Lessons\\C#\\LESSONS\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.csproj",
-        "packagesPath": "C:\\Users\\developer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\developer\\OneDrive\\Рабочий стол\\Lessons\\C#\\LESSONS\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\\obj\\",
+        "projectPath": "C:\\C# 2022\\C#\\LESSONS\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\C# 2022\\C#\\LESSONS\\ИНДЕКСЫ И ДИАПАЗОНЫ NETCORE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

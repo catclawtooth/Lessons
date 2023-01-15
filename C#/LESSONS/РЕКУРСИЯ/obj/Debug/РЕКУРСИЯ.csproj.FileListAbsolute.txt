@@ -6,3 +6,11 @@ C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\РЕКУ�
 C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\РЕКУРСИЯ\obj\Debug\РЕКУРСИЯ.csproj.CoreCompileInputs.cache
 C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\РЕКУРСИЯ\obj\Debug\РЕКУРСИЯ.exe
 C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\РЕКУРСИЯ\obj\Debug\РЕКУРСИЯ.pdb
+C:\C# 2022\C#\LESSONS\РЕКУРСИЯ\bin\Debug\РЕКУРСИЯ.exe.config
+C:\C# 2022\C#\LESSONS\РЕКУРСИЯ\bin\Debug\РЕКУРСИЯ.exe
+C:\C# 2022\C#\LESSONS\РЕКУРСИЯ\bin\Debug\РЕКУРСИЯ.pdb
+C:\C# 2022\C#\LESSONS\РЕКУРСИЯ\obj\Debug\РЕКУРСИЯ.csproj.AssemblyReference.cache
+C:\C# 2022\C#\LESSONS\РЕКУРСИЯ\obj\Debug\РЕКУРСИЯ.csproj.SuggestedBindingRedirects.cache
+C:\C# 2022\C#\LESSONS\РЕКУРСИЯ\obj\Debug\РЕКУРСИЯ.csproj.CoreCompileInputs.cache
+C:\C# 2022\C#\LESSONS\РЕКУРСИЯ\obj\Debug\РЕКУРСИЯ.exe
+C:\C# 2022\C#\LESSONS\РЕКУРСИЯ\obj\Debug\РЕКУРСИЯ.pdb

@@ -6,3 +6,11 @@ C:\Users\developer\Desktop\Lessons\C#\LESSONS\WHILE\obj\Debug\WHILE.csproj.Sugge
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\WHILE\obj\Debug\WHILE.csproj.CoreCompileInputs.cache
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\WHILE\obj\Debug\WHILE.exe
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\WHILE\obj\Debug\WHILE.pdb
+C:\C# 2022\C#\LESSONS\WHILE\bin\Debug\WHILE.exe.config
+C:\C# 2022\C#\LESSONS\WHILE\bin\Debug\WHILE.exe
+C:\C# 2022\C#\LESSONS\WHILE\bin\Debug\WHILE.pdb
+C:\C# 2022\C#\LESSONS\WHILE\obj\Debug\WHILE.csproj.AssemblyReference.cache
+C:\C# 2022\C#\LESSONS\WHILE\obj\Debug\WHILE.csproj.SuggestedBindingRedirects.cache
+C:\C# 2022\C#\LESSONS\WHILE\obj\Debug\WHILE.csproj.CoreCompileInputs.cache
+C:\C# 2022\C#\LESSONS\WHILE\obj\Debug\WHILE.exe
+C:\C# 2022\C#\LESSONS\WHILE\obj\Debug\WHILE.pdb

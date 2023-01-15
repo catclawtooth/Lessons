@@ -1,0 +1,8 @@
+C:\C# 2022\C#\LESSONS\PARAMS\bin\Debug\PARAMS.exe.config
+C:\C# 2022\C#\LESSONS\PARAMS\bin\Debug\PARAMS.exe
+C:\C# 2022\C#\LESSONS\PARAMS\bin\Debug\PARAMS.pdb
+C:\C# 2022\C#\LESSONS\PARAMS\obj\Debug\PARAMS.csproj.AssemblyReference.cache
+C:\C# 2022\C#\LESSONS\PARAMS\obj\Debug\PARAMS.csproj.SuggestedBindingRedirects.cache
+C:\C# 2022\C#\LESSONS\PARAMS\obj\Debug\PARAMS.csproj.CoreCompileInputs.cache
+C:\C# 2022\C#\LESSONS\PARAMS\obj\Debug\PARAMS.exe
+C:\C# 2022\C#\LESSONS\PARAMS\obj\Debug\PARAMS.pdb

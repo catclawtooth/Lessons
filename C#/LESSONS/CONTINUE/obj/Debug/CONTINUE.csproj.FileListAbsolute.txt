@@ -6,3 +6,11 @@ C:\Users\developer\Desktop\Lessons\C#\LESSONS\CONTINUE\obj\Debug\CONTINUE.csproj
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\CONTINUE\obj\Debug\CONTINUE.csproj.CoreCompileInputs.cache
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\CONTINUE\obj\Debug\CONTINUE.exe
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\CONTINUE\obj\Debug\CONTINUE.pdb
+C:\C# 2022\C#\LESSONS\CONTINUE\bin\Debug\CONTINUE.exe.config
+C:\C# 2022\C#\LESSONS\CONTINUE\bin\Debug\CONTINUE.exe
+C:\C# 2022\C#\LESSONS\CONTINUE\bin\Debug\CONTINUE.pdb
+C:\C# 2022\C#\LESSONS\CONTINUE\obj\Debug\CONTINUE.csproj.AssemblyReference.cache
+C:\C# 2022\C#\LESSONS\CONTINUE\obj\Debug\CONTINUE.csproj.SuggestedBindingRedirects.cache
+C:\C# 2022\C#\LESSONS\CONTINUE\obj\Debug\CONTINUE.csproj.CoreCompileInputs.cache
+C:\C# 2022\C#\LESSONS\CONTINUE\obj\Debug\CONTINUE.exe
+C:\C# 2022\C#\LESSONS\CONTINUE\obj\Debug\CONTINUE.pdb

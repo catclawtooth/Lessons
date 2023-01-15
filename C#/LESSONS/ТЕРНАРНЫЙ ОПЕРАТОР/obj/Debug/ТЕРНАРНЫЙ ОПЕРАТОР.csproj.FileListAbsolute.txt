@@ -6,3 +6,11 @@ C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТО�
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\obj\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.csproj.CoreCompileInputs.cache
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\obj\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.exe
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\obj\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.pdb
+C:\C# 2022\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\bin\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.exe.config
+C:\C# 2022\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\bin\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.exe
+C:\C# 2022\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\bin\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.pdb
+C:\C# 2022\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\obj\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.csproj.AssemblyReference.cache
+C:\C# 2022\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\obj\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.csproj.SuggestedBindingRedirects.cache
+C:\C# 2022\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\obj\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.csproj.CoreCompileInputs.cache
+C:\C# 2022\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\obj\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.exe
+C:\C# 2022\C#\LESSONS\ТЕРНАРНЫЙ ОПЕРАТОР\obj\Debug\ТЕРНАРНЫЙ ОПЕРАТОР.pdb

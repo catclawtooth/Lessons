@@ -14,3 +14,11 @@ C:\Users\developer\Desktop\Lessons\C#\LESSONS\СТУПЕНЧАТЫЕ (ЗУБЧА
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ\obj\Debug\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ.csproj.CoreCompileInputs.cache
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ\obj\Debug\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ.exe
 C:\Users\developer\Desktop\Lessons\C#\LESSONS\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ\obj\Debug\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ.pdb
+C:\C# 2022\C#\LESSONS\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ\bin\Debug\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ.exe.config
+C:\C# 2022\C#\LESSONS\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ\bin\Debug\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ.exe
+C:\C# 2022\C#\LESSONS\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ\bin\Debug\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ.pdb
+C:\C# 2022\C#\LESSONS\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ\obj\Debug\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ.csproj.AssemblyReference.cache
+C:\C# 2022\C#\LESSONS\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ\obj\Debug\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ.csproj.SuggestedBindingRedirects.cache
+C:\C# 2022\C#\LESSONS\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ\obj\Debug\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ.csproj.CoreCompileInputs.cache
+C:\C# 2022\C#\LESSONS\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ\obj\Debug\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ.exe
+C:\C# 2022\C#\LESSONS\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ\obj\Debug\СТУПЕНЧАТЫЕ (ЗУБЧАТЫЕ ) МАССИВЫ.pdb

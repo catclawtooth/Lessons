@@ -14,3 +14,11 @@ C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\REF\obj\D
 C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\REF\obj\Debug\REF.csproj.CoreCompileInputs.cache
 C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\REF\obj\Debug\REF.exe
 C:\Users\developer\OneDrive\Рабочий стол\Lessons\C#\LESSONS\REF\obj\Debug\REF.pdb
+C:\C# 2022\C#\LESSONS\REF\bin\Debug\REF.exe.config
+C:\C# 2022\C#\LESSONS\REF\bin\Debug\REF.exe
+C:\C# 2022\C#\LESSONS\REF\bin\Debug\REF.pdb
+C:\C# 2022\C#\LESSONS\REF\obj\Debug\REF.csproj.AssemblyReference.cache
+C:\C# 2022\C#\LESSONS\REF\obj\Debug\REF.csproj.SuggestedBindingRedirects.cache
+C:\C# 2022\C#\LESSONS\REF\obj\Debug\REF.csproj.CoreCompileInputs.cache
+C:\C# 2022\C#\LESSONS\REF\obj\Debug\REF.exe
+C:\C# 2022\C#\LESSONS\REF\obj\Debug\REF.pdb
